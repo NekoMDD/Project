@@ -99,5 +99,17 @@
     <ClCompile Include="28案例水仙花数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29for循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30案例敲桌子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32案例乘法口诀表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
