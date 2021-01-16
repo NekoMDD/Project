@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main()
+int main27()
 {
 	//do...while语句
 	//在屏幕中输出0~9这是个数字

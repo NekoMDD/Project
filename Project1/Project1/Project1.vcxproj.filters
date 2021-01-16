@@ -87,5 +87,17 @@
     <ClCompile Include="24switch语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="25循环结构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26while循环案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27dowhile循环语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28案例水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

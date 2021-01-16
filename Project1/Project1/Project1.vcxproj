@@ -150,6 +150,10 @@
     <ClCompile Include="22练习案例.cpp" />
     <ClCompile Include="23三目运算符.cpp" />
     <ClCompile Include="24switch语句.cpp" />
+    <ClCompile Include="25循环结构.cpp" />
+    <ClCompile Include="26while循环案例.cpp" />
+    <ClCompile Include="27dowhile循环语句.cpp" />
+    <ClCompile Include="28案例水仙花数.cpp" />
     <ClCompile Include="6sizeof关键字.cpp" />
     <ClCompile Include="2变量.cpp" />
     <ClCompile Include="10字符串型.cpp" />
