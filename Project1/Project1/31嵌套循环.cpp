@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main32()
+int main31()
 {
 
 	//利用嵌套循环实现星图

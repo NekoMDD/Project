@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main()
+int main32()
 {
 
 	for (int i = 1; i <10; i++)
