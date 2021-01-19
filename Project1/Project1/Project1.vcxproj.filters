@@ -111,5 +111,17 @@
     <ClCompile Include="32案例乘法口诀表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="33break语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34continue语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35goto语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36数组_一维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
