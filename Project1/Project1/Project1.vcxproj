@@ -162,6 +162,7 @@
     <ClCompile Include="34continue语句.cpp" />
     <ClCompile Include="35goto语句.cpp" />
     <ClCompile Include="36数组_一维数组.cpp" />
+    <ClCompile Include="37一维数组案例.cpp" />
     <ClCompile Include="6sizeof关键字.cpp" />
     <ClCompile Include="2变量.cpp" />
     <ClCompile Include="10字符串型.cpp" />
