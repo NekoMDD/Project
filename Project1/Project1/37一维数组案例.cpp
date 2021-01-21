@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main()
+int main37()
 {
 
 	//int arr[] = { 300,350,200,400,250 };

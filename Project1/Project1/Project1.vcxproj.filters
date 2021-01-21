@@ -126,5 +126,17 @@
     <ClCompile Include="37一维数组案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="38数组元素逆置案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41二维数组数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
