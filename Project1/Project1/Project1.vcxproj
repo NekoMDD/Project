@@ -173,6 +173,8 @@
     <ClCompile Include="45值传递.cpp" />
     <ClCompile Include="46函数的常见样式.cpp" />
     <ClCompile Include="47函数的声明.cpp" />
+    <ClCompile Include="48函数的分文件编写.cpp" />
+    <ClCompile Include="49指针_指针的基本概念.cpp" />
     <ClCompile Include="6sizeof关键字.cpp" />
     <ClCompile Include="2变量.cpp" />
     <ClCompile Include="10字符串型.cpp" />
@@ -186,6 +188,10 @@
     <ClCompile Include="9转义字符.cpp" />
     <ClCompile Include="13运算符.cpp" />
     <ClCompile Include="14算术运算符取模运算.cpp" />
+    <ClCompile Include="swap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
