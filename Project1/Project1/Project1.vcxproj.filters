@@ -13,130 +13,157 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\1、基础语句及循环">
+      <UniqueIdentifier>{beb3c46c-0db5-486a-9f98-dcc3b4544964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2、数组">
+      <UniqueIdentifier>{84451197-4813-4ec1-89a0-a6d510ab542b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3、函数">
+      <UniqueIdentifier>{cc67ca1b-dad6-480e-b07e-3c8651248edc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1helloworld.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="6sizeof关键字.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="2变量.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="4标识符命名规则.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="11布尔类型bool.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="3常量.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
-    <ClCompile Include="7实型（浮点型）.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="12数据的输入.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="4标识符命名规则.cpp">
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="5数据类型_整型.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
-    <ClCompile Include="9转义字符.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="6sizeof关键字.cpp">
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
-    <ClCompile Include="10字符串型.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="7实型（浮点型）.cpp">
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="8字符型.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
+    </ClCompile>
+    <ClCompile Include="9转义字符.cpp">
+      <Filter>源文件\1、基础语句及循环</Filter>
+    </ClCompile>
+    <ClCompile Include="10字符串型.cpp">
+      <Filter>源文件\1、基础语句及循环</Filter>
+    </ClCompile>
+    <ClCompile Include="11布尔类型bool.cpp">
+      <Filter>源文件\1、基础语句及循环</Filter>
+    </ClCompile>
+    <ClCompile Include="12数据的输入.cpp">
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="13运算符.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="14算术运算符取模运算.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="15算术运算符递增减.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="16赋值运算符.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="17比较运算符.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="18逻辑运算符.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="19程序流程结构.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="20多条件if语句.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="21嵌套if语句.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="22练习案例.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="23三目运算符.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="24switch语句.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="25循环结构.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="26while循环案例.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="27dowhile循环语句.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="28案例水仙花数.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="29for循环.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="30案例敲桌子.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="31嵌套循环.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="32案例乘法口诀表.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="33break语句.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="34continue语句.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="35goto语句.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1、基础语句及循环</Filter>
     </ClCompile>
     <ClCompile Include="36数组_一维数组.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\2、数组</Filter>
     </ClCompile>
     <ClCompile Include="37一维数组案例.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\2、数组</Filter>
     </ClCompile>
     <ClCompile Include="38数组元素逆置案例.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\2、数组</Filter>
     </ClCompile>
     <ClCompile Include="39冒泡排序.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\2、数组</Filter>
     </ClCompile>
     <ClCompile Include="40二维数组.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\2、数组</Filter>
     </ClCompile>
     <ClCompile Include="41二维数组数组名.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\2、数组</Filter>
+    </ClCompile>
+    <ClCompile Include="42二维数组应用案例.cpp">
+      <Filter>源文件\2、数组</Filter>
+    </ClCompile>
+    <ClCompile Include="43函数.cpp">
+      <Filter>源文件\3、函数</Filter>
+    </ClCompile>
+    <ClCompile Include="44函数的调用.cpp">
+      <Filter>源文件\3、函数</Filter>
+    </ClCompile>
+    <ClCompile Include="45值传递.cpp">
+      <Filter>源文件\3、函数</Filter>
+    </ClCompile>
+    <ClCompile Include="46函数的常见样式.cpp">
+      <Filter>源文件\3、函数</Filter>
+    </ClCompile>
+    <ClCompile Include="47函数的声明.cpp">
+      <Filter>源文件\3、函数</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

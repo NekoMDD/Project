@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main()
+int main41()
 {
 	//二维数组的名称用途
 	//1、可以查看占用的内存空间大小

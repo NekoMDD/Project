@@ -167,6 +167,12 @@
     <ClCompile Include="39冒泡排序.cpp" />
     <ClCompile Include="40二维数组.cpp" />
     <ClCompile Include="41二维数组数组名.cpp" />
+    <ClCompile Include="42二维数组应用案例.cpp" />
+    <ClCompile Include="43函数.cpp" />
+    <ClCompile Include="44函数的调用.cpp" />
+    <ClCompile Include="45值传递.cpp" />
+    <ClCompile Include="46函数的常见样式.cpp" />
+    <ClCompile Include="47函数的声明.cpp" />
     <ClCompile Include="6sizeof关键字.cpp" />
     <ClCompile Include="2变量.cpp" />
     <ClCompile Include="10字符串型.cpp" />
