@@ -175,6 +175,11 @@
     <ClCompile Include="47函数的声明.cpp" />
     <ClCompile Include="48函数的分文件编写.cpp" />
     <ClCompile Include="49指针_指针的基本概念.cpp" />
+    <ClCompile Include="50指针所占用的内存空间.cpp" />
+    <ClCompile Include="51空指针.cpp" />
+    <ClCompile Include="52野指针.cpp" />
+    <ClCompile Include="53const修饰指针.cpp" />
+    <ClCompile Include="54指针和数组.cpp" />
     <ClCompile Include="6sizeof关键字.cpp" />
     <ClCompile Include="2变量.cpp" />
     <ClCompile Include="10字符串型.cpp" />

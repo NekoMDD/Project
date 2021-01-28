@@ -1,3 +1,63 @@
-﻿  数据类型_整型.cpp
-E:\CPP\Project1\Project1\数据类型_整型.cpp(7,15): warning C4309: “初始化”: 截断常量值
-  Project1.vcxproj -> E:\CPP\Project1\x64\Debug\Project1.exe
+﻿  15算术运算符递增减.cpp
+  16赋值运算符.cpp
+  17比较运算符.cpp
+  18逻辑运算符.cpp
+  19程序流程结构.cpp
+  1helloworld.cpp
+  20多条件if语句.cpp
+  21嵌套if语句.cpp
+  22练习案例.cpp
+  23三目运算符.cpp
+  24switch语句.cpp
+  25循环结构.cpp
+  26while循环案例.cpp
+  27dowhile循环语句.cpp
+  28案例水仙花数.cpp
+  29for循环.cpp
+  30案例敲桌子.cpp
+  31嵌套循环.cpp
+  32案例乘法口诀表.cpp
+  33break语句.cpp
+  正在生成代码...
+  正在编译...
+  34continue语句.cpp
+  35goto语句.cpp
+  36数组_一维数组.cpp
+  37一维数组案例.cpp
+  38数组元素逆置案例.cpp
+  39冒泡排序.cpp
+  40二维数组.cpp
+  41二维数组数组名.cpp
+E:\文档\Project\Project1\Project1\41二维数组数组名.cpp(21,55): warning C4311: “类型强制转换”: 从“int (*)[3]”到“int”的指针截断
+E:\文档\Project\Project1\Project1\41二维数组数组名.cpp(21,55): warning C4302: “类型强制转换”: 从“int (*)[3]”到“int”截断
+E:\文档\Project\Project1\Project1\41二维数组数组名.cpp(22,62): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+E:\文档\Project\Project1\Project1\41二维数组数组名.cpp(22,62): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  42二维数组应用案例.cpp
+  43函数.cpp
+  44函数的调用.cpp
+  45值传递.cpp
+  46函数的常见样式.cpp
+  47函数的声明.cpp
+  48函数的分文件编写.cpp
+  49指针_指针的基本概念.cpp
+  50指针所占用的内存空间.cpp
+  6sizeof关键字.cpp
+  2变量.cpp
+  10字符串型.cpp
+  正在生成代码...
+  正在编译...
+  8字符型.cpp
+  7实型（浮点型）.cpp
+E:\文档\Project\Project1\Project1\7实型（浮点型）.cpp(24,17): warning C4305: “初始化”: 从“double”到“float”截断
+  11布尔类型bool.cpp
+  3常量.cpp
+  12数据的输入.cpp
+  5数据类型_整型.cpp
+E:\文档\Project\Project1\Project1\5数据类型_整型.cpp(7,15): warning C4309: “初始化”: 截断常量值
+  4标识符命名规则.cpp
+  9转义字符.cpp
+  13运算符.cpp
+  14算术运算符取模运算.cpp
+  swap.cpp
+  正在生成代码...
+  Project1.vcxproj -> E:\文档\Project\Project1\x64\Debug\Project1.exe

@@ -186,6 +186,21 @@
     <ClCompile Include="49指针_指针的基本概念.cpp">
       <Filter>源文件\7、指针</Filter>
     </ClCompile>
+    <ClCompile Include="50指针所占用的内存空间.cpp">
+      <Filter>源文件\7、指针</Filter>
+    </ClCompile>
+    <ClCompile Include="51空指针.cpp">
+      <Filter>源文件\7、指针</Filter>
+    </ClCompile>
+    <ClCompile Include="52野指针.cpp">
+      <Filter>源文件\7、指针</Filter>
+    </ClCompile>
+    <ClCompile Include="53const修饰指针.cpp">
+      <Filter>源文件\7、指针</Filter>
+    </ClCompile>
+    <ClCompile Include="54指针和数组.cpp">
+      <Filter>源文件\7、指针</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
