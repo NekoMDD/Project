@@ -180,6 +180,8 @@
     <ClCompile Include="52野指针.cpp" />
     <ClCompile Include="53const修饰指针.cpp" />
     <ClCompile Include="54指针和数组.cpp" />
+    <ClCompile Include="55指针和函数.cpp" />
+    <ClCompile Include="56指针、数组、函数案例.cpp" />
     <ClCompile Include="6sizeof关键字.cpp" />
     <ClCompile Include="2变量.cpp" />
     <ClCompile Include="10字符串型.cpp" />

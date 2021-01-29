@@ -201,6 +201,12 @@
     <ClCompile Include="54指针和数组.cpp">
       <Filter>源文件\7、指针</Filter>
     </ClCompile>
+    <ClCompile Include="55指针和函数.cpp">
+      <Filter>源文件\7、指针</Filter>
+    </ClCompile>
+    <ClCompile Include="56指针、数组、函数案例.cpp">
+      <Filter>源文件\7、指针</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
