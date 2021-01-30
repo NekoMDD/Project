@@ -34,6 +34,9 @@
     <Filter Include="源文件\7、指针">
       <UniqueIdentifier>{dab4cff6-0a3b-442e-8db3-0d3686764746}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\8、结构体">
+      <UniqueIdentifier>{20ee8919-45b2-43e5-8422-5d3b859bb708}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1helloworld.cpp">
@@ -206,6 +209,30 @@
     </ClCompile>
     <ClCompile Include="56指针、数组、函数案例.cpp">
       <Filter>源文件\7、指针</Filter>
+    </ClCompile>
+    <ClCompile Include="57结构提的基本概念.cpp">
+      <Filter>源文件\8、结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="58结构体数组.cpp">
+      <Filter>源文件\8、结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="59结构体指针.cpp">
+      <Filter>源文件\8、结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="60结构体嵌套结构体.cpp">
+      <Filter>源文件\8、结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="61结构体做函数参数.cpp">
+      <Filter>源文件\8、结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="62结构体中const使用场景.cpp">
+      <Filter>源文件\8、结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="63结构体案例1.cpp">
+      <Filter>源文件\8、结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="64结构体案例2.cpp">
+      <Filter>源文件\8、结构体</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

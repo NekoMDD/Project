@@ -28,7 +28,7 @@ void printarray(int* arr, int len)
 		cout << arr[i] << endl;
 	}
 }
-int main()
+int main56()
 {
 
 	//1、创建一个数组

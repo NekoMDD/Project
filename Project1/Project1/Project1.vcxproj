@@ -24,6 +24,7 @@
     <ProjectGuid>{f136fb6f-3cb9-4e9a-9dce-2dac8d6954a9}</ProjectGuid>
     <RootNamespace>Project1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>C++基础入门</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -182,6 +183,14 @@
     <ClCompile Include="54指针和数组.cpp" />
     <ClCompile Include="55指针和函数.cpp" />
     <ClCompile Include="56指针、数组、函数案例.cpp" />
+    <ClCompile Include="57结构提的基本概念.cpp" />
+    <ClCompile Include="58结构体数组.cpp" />
+    <ClCompile Include="59结构体指针.cpp" />
+    <ClCompile Include="60结构体嵌套结构体.cpp" />
+    <ClCompile Include="61结构体做函数参数.cpp" />
+    <ClCompile Include="62结构体中const使用场景.cpp" />
+    <ClCompile Include="63结构体案例1.cpp" />
+    <ClCompile Include="64结构体案例2.cpp" />
     <ClCompile Include="6sizeof关键字.cpp" />
     <ClCompile Include="2变量.cpp" />
     <ClCompile Include="10字符串型.cpp" />
