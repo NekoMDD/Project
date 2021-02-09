@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int* func()
+int* func1()
 {
 	//利用new关键字  可以将数据开辟到堆区
 	//int a = 10;
@@ -12,10 +12,10 @@ int* func()
 	return p;
 }
 
-int main()
+int main3()
 {
 	//在堆区开辟数据
-	int* p = func();
+	int* p = func1();
 	cout << *p << endl;
 	cout << *p << endl;
 	cout << *p << endl;

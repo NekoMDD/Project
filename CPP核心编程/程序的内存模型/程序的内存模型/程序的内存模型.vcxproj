@@ -142,6 +142,7 @@
     <ClCompile Include="1全局区.cpp" />
     <ClCompile Include="2栈区.cpp" />
     <ClCompile Include="3堆区.cpp" />
+    <ClCompile Include="4new操作符.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
