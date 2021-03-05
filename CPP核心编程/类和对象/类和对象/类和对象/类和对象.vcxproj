@@ -143,6 +143,8 @@
     <ClCompile Include="2、封装_访问权限.cpp" />
     <ClCompile Include="3、封装_c++中class和struct的区别.cpp" />
     <ClCompile Include="4、封装_成员属性私有化.cpp" />
+    <ClCompile Include="5、封装_设计案例1-立方体类.cpp" />
+    <ClCompile Include="6、封装_设计案例2-点和圆关系.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

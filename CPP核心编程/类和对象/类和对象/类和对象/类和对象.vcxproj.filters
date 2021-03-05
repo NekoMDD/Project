@@ -27,5 +27,11 @@
     <ClCompile Include="4、封装_成员属性私有化.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5、封装_设计案例1-立方体类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6、封装_设计案例2-点和圆关系.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

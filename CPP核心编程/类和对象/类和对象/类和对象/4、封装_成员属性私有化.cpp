@@ -47,7 +47,7 @@ private:
 	//情人
 	string m_Lover;
 };
-int main()
+int main4()
 {
 	Person p;
 	p.setName("张三");
