@@ -37,7 +37,7 @@ void printHero(struct Hero heroArray[], int len)
 	}
 }
 
-int main()
+int main64()
 {
 
 	//2、创建数组存放五名英雄
