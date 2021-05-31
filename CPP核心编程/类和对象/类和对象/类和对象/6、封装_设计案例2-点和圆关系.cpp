@@ -84,7 +84,7 @@ void isInCircle(Circle& c, Point& p)
 	}
 };
 
-int main()
+int main6()
 {
 	//´´½¨Ô²
 	Circle c;

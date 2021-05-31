@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -145,6 +146,7 @@
     <ClCompile Include="4、封装_成员属性私有化.cpp" />
     <ClCompile Include="5、封装_设计案例1-立方体类.cpp" />
     <ClCompile Include="6、封装_设计案例2-点和圆关系.cpp" />
+    <ClCompile Include="7、对象的初始化和清理.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="point.cpp" />
   </ItemGroup>

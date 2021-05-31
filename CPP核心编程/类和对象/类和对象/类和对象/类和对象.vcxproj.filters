@@ -39,6 +39,9 @@
     <ClCompile Include="circle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7、对象的初始化和清理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">

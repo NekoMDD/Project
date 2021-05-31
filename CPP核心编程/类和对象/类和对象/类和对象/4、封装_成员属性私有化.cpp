@@ -5,7 +5,7 @@ using namespace std;
 //1、可以自己控制读写权限
 //2、对于写可以检测数据的有效性
 
-class Person
+class Person5
 {
 public:
 	//设置姓名
@@ -49,7 +49,7 @@ private:
 };
 int main4()
 {
-	Person p;
+	Person5 p;
 	p.setName("张三");
 	cout << "姓名：" << p.getNmame() << endl;
 	p.setAge(18);
