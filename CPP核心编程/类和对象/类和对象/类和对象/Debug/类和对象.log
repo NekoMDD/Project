@@ -1,4 +1,15 @@
-﻿  4、封装_成员属性私有化.cpp
+﻿E:\软件\VS\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(类和对象.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  1、封装_属性和行为作为主体.cpp
+  2、封装_访问权限.cpp
+  3、封装_c++中class和struct的区别.cpp
+E:\文档\Project\CPP核心编程\类和对象\类和对象\类和对象\3、封装_c++中class和struct的区别.cpp(19,5): warning C4101: “c1”: 未引用的局部变量
+  4、封装_成员属性私有化.cpp
+  5、封装_设计案例1-立方体类.cpp
+  6、封装_设计案例2-点和圆关系.cpp
   7、对象的初始化和清理.cpp
+  8、构造函数的分类及调用.cpp
+  9、拷贝构造函数调用时机.cpp
+  circle.cpp
+  point.cpp
   正在生成代码...
-  类和对象.vcxproj -> E:\文档\Project\CPP核心编程\类和对象\类和对象\Debug\类和对象.exe
+  类和对象.vcxproj -> E:\文档\Project\CPP核心编程\类和对象\类和对象\Debug\类和对象1.exe

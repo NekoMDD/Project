@@ -42,6 +42,12 @@
     <ClCompile Include="7、对象的初始化和清理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8、构造函数的分类及调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9、拷贝构造函数调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">

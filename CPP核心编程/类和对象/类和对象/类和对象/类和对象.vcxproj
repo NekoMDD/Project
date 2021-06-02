@@ -24,6 +24,7 @@
     <ProjectGuid>{32375dac-4ad1-437d-bac2-7ae9d38dd9df}</ProjectGuid>
     <RootNamespace>类和对象</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>类和对象1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,6 +148,8 @@
     <ClCompile Include="5、封装_设计案例1-立方体类.cpp" />
     <ClCompile Include="6、封装_设计案例2-点和圆关系.cpp" />
     <ClCompile Include="7、对象的初始化和清理.cpp" />
+    <ClCompile Include="8、构造函数的分类及调用.cpp" />
+    <ClCompile Include="9、拷贝构造函数调用时机.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="point.cpp" />
   </ItemGroup>
