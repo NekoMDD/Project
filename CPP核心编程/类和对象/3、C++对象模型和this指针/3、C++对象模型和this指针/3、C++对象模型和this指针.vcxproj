@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="1、成员变量和成员函数分开存储.cpp" />
     <ClCompile Include="2、this指针概念.cpp" />
+    <ClCompile Include="3、空指针访问成员函数.cpp" />
+    <ClCompile Include="4、const修饰成员函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

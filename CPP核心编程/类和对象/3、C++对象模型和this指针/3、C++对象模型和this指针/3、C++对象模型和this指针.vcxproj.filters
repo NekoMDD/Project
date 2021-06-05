@@ -21,5 +21,11 @@
     <ClCompile Include="2、this指针概念.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3、空指针访问成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4、const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
