@@ -27,5 +27,8 @@
     <ClCompile Include="4、继承中构造和析构顺序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5、继承同名成员处理方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
